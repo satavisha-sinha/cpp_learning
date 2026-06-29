@@ -50,6 +50,8 @@ int main(){
     int n;
     cout<<"Enter half of no. of rows you want : ";
     cin>>n;
-    side_triangle(n);
+    // pyramid_star(n);
+    // inverted_pyramid_star(n);
+    // side_triangle(n);
     return 0;
 }
